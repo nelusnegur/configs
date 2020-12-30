@@ -1,0 +1,12 @@
+# IntelliJ IDEA Vim configuration
+
+set clipboard+=unnamed
+set number
+set rnu
+
+set hlsearch
+set incsearch
+
+set surround
+set commentary
+set multiple-cursors
