@@ -1,5 +1,3 @@
-# IntelliJ IDEA Vim configuration
-
 set clipboard+=unnamed
 set number
 set rnu
