@@ -1,0 +1,14 @@
+[user]
+	name = Nelu Snegur
+	email = nelu.snegur@pulsarplanet.com
+	signingkey = 240938B90BA835F7751E4B79AAAA99896CA9EF2A
+[pull]
+	ff = only
+[core]
+	autocrlf = input
+	safecrlf = true
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main
+
